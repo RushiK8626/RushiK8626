@@ -54,7 +54,7 @@
 
 ## 🏗️ Featured Projects
 
-### 💬 [ConvoHub — Chat Messaging App](https://github.com/RushiK8626/ConvoHub-Chat-Messaging-App)
+### 💬 [SwiftTalk — Chat Messaging App](https://github.com/RushiK8626/SwiftTalk-Chat-Messaging-App)
 > A full-featured real-time chat application with AI superpowers
 
 - ⚡ Real-time messaging with **Socket.IO** (private & group chats)
