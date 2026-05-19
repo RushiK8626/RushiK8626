@@ -134,9 +134,3 @@ I focus on creating efficient, practical solutions.</h3>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
-</p>
